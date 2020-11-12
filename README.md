@@ -1,2 +1,2 @@
 # webscraping
-How to gather text data from web sites
+An quick introduction on how to use Python request and BeautifulSoup to extract information from web pages
